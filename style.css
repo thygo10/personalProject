@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  font-size: 62.5%;
+}
+
+body{
+  background-color: blueviolet;
+  font-size: 1.6rem;
+}
+
+main{
+  background-color: rgb(43, 137, 226);
+  padding: 10px;
+  margin: 10px auto;
+  width: 500px;
+  box-shadow: 3px 3px 5px black;
+}
